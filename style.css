@@ -1,0 +1,14 @@
+body{
+    height: 100vh;
+}
+.outer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.face{
+    height: 400px;
+    width: 400px;
+    background-color: yellow;
+    border-radius: 50%;
+}
