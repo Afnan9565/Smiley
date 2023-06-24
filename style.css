@@ -42,13 +42,3 @@ body{
     border-top-left-radius: 40px;
     border-top-right-radius: 40px;
 }
-.lips{
-    width: 90px;
-    height: 60px;
-    background-color: chocolate;
-    position: relative;
-    top: 170px;
-    margin: auto;
-    border-top-left-radius: 40px;
-    border-top-right-radius: 40px;
-}
